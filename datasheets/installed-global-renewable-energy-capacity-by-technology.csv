@@ -1,0 +1,419 @@
+Entity,Code,Year,Capacity
+Bagasse,,2000,4174.639
+Bagasse,,2001,4569.42
+Bagasse,,2002,4619.717
+Bagasse,,2003,4708.929
+Bagasse,,2004,5234.411
+Bagasse,,2005,6207.331
+Bagasse,,2006,6430.734
+Bagasse,,2007,7007.448
+Bagasse,,2008,7737.045
+Bagasse,,2009,8306.633
+Bagasse,,2010,10651.179
+Bagasse,,2011,11857.878
+Bagasse,,2012,13071.871
+Bagasse,,2013,14757.599
+Bagasse,,2014,15743.007
+Bagasse,,2015,16835.04
+Bagasse,,2016,17730.387
+Bagasse,,2017,18290.523
+Bagasse,,2018,19052.654
+Bagasse,,2019,19783.852
+Bagasse,,2020,20185.23
+Bagasse,,2021,20631.215
+Bioenergy,,2000,29158.697
+Bioenergy,,2001,31053.21
+Bioenergy,,2002,32600.863
+Bioenergy,,2003,34934.227
+Bioenergy,,2004,37934.766
+Bioenergy,,2005,43148.348
+Bioenergy,,2006,47167.633
+Bioenergy,,2007,50296.945
+Bioenergy,,2008,54198.402
+Bioenergy,,2009,61022.367
+Bioenergy,,2010,65593.86
+Bioenergy,,2011,71832.05
+Bioenergy,,2012,76918.65
+Bioenergy,,2013,84412.695
+Bioenergy,,2014,90484.375
+Bioenergy,,2015,96257.06
+Bioenergy,,2016,105209.27
+Bioenergy,,2017,110811.03
+Bioenergy,,2018,117993.89
+Bioenergy,,2019,123812.52
+Bioenergy,,2020,132870.78
+Bioenergy,,2021,143194.62
+Biogas,,2000,2435.273
+Biogas,,2001,2761.924
+Biogas,,2002,3026.574
+Biogas,,2003,3440.329
+Biogas,,2004,3737.524
+Biogas,,2005,4804.843
+Biogas,,2006,5377.859
+Biogas,,2007,6247.584
+Biogas,,2008,6759.566
+Biogas,,2009,8372.047
+Biogas,,2010,9531.117
+Biogas,,2011,11462.947
+Biogas,,2012,13129.756
+Biogas,,2013,13982.747
+Biogas,,2014,15016.931
+Biogas,,2015,15683.019
+Biogas,,2016,16670.367
+Biogas,,2017,17278.986
+Biogas,,2018,18332.945
+Biogas,,2019,19126.643
+Biogas,,2020,20447.934
+Biogas,,2021,21395.127
+Concentrated solar power,,2000,419
+Concentrated solar power,,2001,246
+Concentrated solar power,,2002,202
+Concentrated solar power,,2003,388.4
+Concentrated solar power,,2004,388.4
+Concentrated solar power,,2005,388.4
+Concentrated solar power,,2006,412.4
+Concentrated solar power,,2007,479
+Concentrated solar power,,2008,535
+Concentrated solar power,,2009,765.1
+Concentrated solar power,,2010,1265.82
+Concentrated solar power,,2011,1704.52
+Concentrated solar power,,2012,2566.52
+Concentrated solar power,,2013,3941.933
+Concentrated solar power,,2014,4598.933
+Concentrated solar power,,2015,4850.043
+Concentrated solar power,,2016,4970.043
+Concentrated solar power,,2017,5069.113
+Concentrated solar power,,2018,5810.934
+Concentrated solar power,,2019,6376.884
+Concentrated solar power,,2020,6510.684
+Concentrated solar power,,2021,6390.554
+Geothermal energy,,2000,8235.95
+Geothermal energy,,2001,7916.95
+Geothermal energy,,2002,8108.15
+Geothermal energy,,2003,8200.05
+Geothermal energy,,2004,8218.25
+Geothermal energy,,2005,8568.265
+Geothermal energy,,2006,8796.365
+Geothermal energy,,2007,9027.365
+Geothermal energy,,2008,9329.465
+Geothermal energy,,2009,9772.865
+Geothermal energy,,2010,10235.165
+Geothermal energy,,2011,10375.965
+Geothermal energy,,2012,10748.065
+Geothermal energy,,2013,10988.865
+Geothermal energy,,2014,11429.415
+Geothermal energy,,2015,12091.425
+Geothermal energy,,2016,12411.334
+Geothermal energy,,2017,13030.773
+Geothermal energy,,2018,13477.021
+Geothermal energy,,2019,14095.061
+Geothermal energy,,2020,14437.561
+Geothermal energy,,2021,15959.561
+Hydropower,,2000,782136.56
+Hydropower,,2001,789860.75
+Hydropower,,2002,802741.06
+Hydropower,,2003,823047.5
+Hydropower,,2004,845265.75
+Hydropower,,2005,870942.3
+Hydropower,,2006,895030.4
+Hydropower,,2007,926127.44
+Hydropower,,2008,957455.06
+Hydropower,,2009,991892.94
+Hydropower,,2010,1025434.4
+Hydropower,,2011,1056907.9
+Hydropower,,2012,1090156.2
+Hydropower,,2013,1137117
+Hydropower,,2014,1175547.9
+Hydropower,,2015,1210201.8
+Hydropower,,2016,1245460.4
+Hydropower,,2017,1270469.9
+Hydropower,,2018,1293203.8
+Hydropower,,2019,1311570.9
+Hydropower,,2020,1335495.8
+Hydropower,,2021,1360502
+Liquid biofuels,,2000,0.154
+Liquid biofuels,,2001,5.194
+Liquid biofuels,,2002,8.194
+Liquid biofuels,,2003,63.194
+Liquid biofuels,,2004,631.3
+Liquid biofuels,,2005,800.74
+Liquid biofuels,,2006,926.677
+Liquid biofuels,,2007,1033.505
+Liquid biofuels,,2008,1212.81
+Liquid biofuels,,2009,1697.053
+Liquid biofuels,,2010,1868.706
+Liquid biofuels,,2011,1906.927
+Liquid biofuels,,2012,2066.396
+Liquid biofuels,,2013,2041.357
+Liquid biofuels,,2014,2338.13
+Liquid biofuels,,2015,2418.695
+Liquid biofuels,,2016,2322.259
+Liquid biofuels,,2017,2357.308
+Liquid biofuels,,2018,2402.149
+Liquid biofuels,,2019,2627.067
+Liquid biofuels,,2020,2551.682
+Liquid biofuels,,2021,2585.682
+Marine energy,,2000,237.75
+Marine energy,,2001,239.25
+Marine energy,,2002,242.25
+Marine energy,,2003,243.25
+Marine energy,,2004,242.25
+Marine energy,,2005,240.25
+Marine energy,,2006,239.25
+Marine energy,,2007,241.55
+Marine energy,,2008,244.55
+Marine energy,,2009,245.265
+Marine energy,,2010,249.595
+Marine energy,,2011,502.68
+Marine energy,,2012,509.409
+Marine energy,,2013,509.616
+Marine energy,,2014,513.027
+Marine energy,,2015,512.528
+Marine energy,,2016,523.208
+Marine energy,,2017,527.164
+Marine energy,,2018,527.256
+Marine energy,,2019,525.736
+Marine energy,,2020,523.541
+Marine energy,,2021,523.541
+Offshore wind energy,,2000,66.75
+Offshore wind energy,,2001,75.75
+Offshore wind energy,,2002,239.75
+Offshore wind energy,,2003,510.35
+Offshore wind energy,,2004,595.55
+Offshore wind energy,,2005,685.55
+Offshore wind energy,,2006,883.55
+Offshore wind energy,,2007,1094.05
+Offshore wind energy,,2008,1442.45
+Offshore wind energy,,2009,2133.55
+Offshore wind energy,,2010,3055.35
+Offshore wind energy,,2011,3775.81
+Offshore wind energy,,2012,5333.95
+Offshore wind energy,,2013,7171.25
+Offshore wind energy,,2014,8491.77
+Offshore wind energy,,2015,11717.57
+Offshore wind energy,,2016,14341.85
+Offshore wind energy,,2017,18836.75
+Offshore wind energy,,2018,23589.6
+Offshore wind energy,,2019,28302.3
+Offshore wind energy,,2020,34357.65
+Offshore wind energy,,2021,54256.98
+Onshore wind energy,,2000,16865.732
+Onshore wind energy,,2001,23893.215
+Onshore wind energy,,2002,30493.662
+Onshore wind energy,,2003,38159.195
+Onshore wind energy,,2004,47088.844
+Onshore wind energy,,2005,57721.574
+Onshore wind energy,,2006,72277.125
+Onshore wind energy,,2007,90458.01
+Onshore wind energy,,2008,114121.84
+Onshore wind energy,,2009,148003.03
+Onshore wind energy,,2010,177810.95
+Onshore wind energy,,2011,216344.81
+Onshore wind energy,,2012,261582.88
+Onshore wind energy,,2013,292667.1
+Onshore wind energy,,2014,340814.03
+Onshore wind energy,,2015,404451.6
+Onshore wind energy,,2016,452524.2
+Onshore wind energy,,2017,495359.5
+Onshore wind energy,,2018,540726.4
+Onshore wind energy,,2019,592780.9
+Onshore wind energy,,2020,697265.5
+Onshore wind energy,,2021,769227.4
+Other solid biofuels,,2000,19015.832
+Other solid biofuels,,2001,19910.473
+Other solid biofuels,,2002,20976.773
+Other solid biofuels,,2003,22607.672
+Other solid biofuels,,2004,23972.727
+Other solid biofuels,,2005,26674.807
+Other solid biofuels,,2006,29406.738
+Other solid biofuels,,2007,31044.94
+Other solid biofuels,,2008,33313.832
+Other solid biofuels,,2009,37181.637
+Other solid biofuels,,2010,36769.387
+Other solid biofuels,,2011,39705.023
+Other solid biofuels,,2012,41248.797
+Other solid biofuels,,2013,45108.285
+Other solid biofuels,,2014,48650.38
+Other solid biofuels,,2015,51648.82
+Other solid biofuels,,2016,57928.812
+Other solid biofuels,,2017,61395.023
+Other solid biofuels,,2018,65470.977
+Other solid biofuels,,2019,67982.23
+Other solid biofuels,,2020,72584.47
+Other solid biofuels,,2021,78975.93
+Pure pumped storage,,2000,84966.55
+Pure pumped storage,,2001,80799.55
+Pure pumped storage,,2002,82575.55
+Pure pumped storage,,2003,82687.55
+Pure pumped storage,,2004,83998.55
+Pure pumped storage,,2005,86842.55
+Pure pumped storage,,2006,89524.55
+Pure pumped storage,,2007,93699.55
+Pure pumped storage,,2008,95618.55
+Pure pumped storage,,2009,100238.05
+Pure pumped storage,,2010,99760.05
+Pure pumped storage,,2011,102981.21
+Pure pumped storage,,2012,105605.3
+Pure pumped storage,,2013,107732.24
+Pure pumped storage,,2014,109473.74
+Pure pumped storage,,2015,111904.74
+Pure pumped storage,,2016,116936.78
+Pure pumped storage,,2017,119843.664
+Pure pumped storage,,2018,120360.164
+Pure pumped storage,,2019,120609.164
+Pure pumped storage,,2020,123888.32
+Pure pumped storage,,2021,130162.12
+Renewable hydropower including mixed plants,,2000,697170.06
+Renewable hydropower including mixed plants,,2001,709061.2
+Renewable hydropower including mixed plants,,2002,720165.5
+Renewable hydropower including mixed plants,,2003,740359.94
+Renewable hydropower including mixed plants,,2004,761267.2
+Renewable hydropower including mixed plants,,2005,784099.75
+Renewable hydropower including mixed plants,,2006,805505.8
+Renewable hydropower including mixed plants,,2007,832427.9
+Renewable hydropower including mixed plants,,2008,861836.5
+Renewable hydropower including mixed plants,,2009,891654.9
+Renewable hydropower including mixed plants,,2010,925674.3
+Renewable hydropower including mixed plants,,2011,953926.6
+Renewable hydropower including mixed plants,,2012,984550.94
+Renewable hydropower including mixed plants,,2013,1029384.75
+Renewable hydropower including mixed plants,,2014,1066074.1
+Renewable hydropower including mixed plants,,2015,1098297
+Renewable hydropower including mixed plants,,2016,1128523.6
+Renewable hydropower including mixed plants,,2017,1150626.2
+Renewable hydropower including mixed plants,,2018,1172843.6
+Renewable hydropower including mixed plants,,2019,1190961.8
+Renewable hydropower including mixed plants,,2020,1211607.5
+Renewable hydropower including mixed plants,,2021,1230339.9
+Renewable municipal waste,,2000,3532.8
+Renewable municipal waste,,2001,3806.2
+Renewable municipal waste,,2002,3969.605
+Renewable municipal waste,,2003,4114.105
+Renewable municipal waste,,2004,4358.805
+Renewable municipal waste,,2005,4660.626
+Renewable municipal waste,,2006,5025.624
+Renewable municipal waste,,2007,4963.469
+Renewable municipal waste,,2008,5175.15
+Renewable municipal waste,,2009,5465
+Renewable municipal waste,,2010,6773.473
+Renewable municipal waste,,2011,6899.273
+Renewable municipal waste,,2012,7401.833
+Renewable municipal waste,,2013,8519.706
+Renewable municipal waste,,2014,8728.93
+Renewable municipal waste,,2015,9668.491
+Renewable municipal waste,,2016,10554.451
+Renewable municipal waste,,2017,11486.188
+Renewable municipal waste,,2018,12732.164
+Renewable municipal waste,,2019,14289.737
+Renewable municipal waste,,2020,17098.46
+Renewable municipal waste,,2021,19603.674
+Solar energy,,2000,1227.669
+Solar energy,,2001,1338.986
+Solar energy,,2002,1639.059
+Solar energy,,2003,2353.43
+Solar energy,,2004,3440.379
+Solar energy,,2005,4936.519
+Solar energy,,2006,6505.593
+Solar energy,,2007,8985.466
+Solar energy,,2008,15264.541
+Solar energy,,2009,23609.566
+Solar energy,,2010,41603.63
+Solar energy,,2011,73920.49
+Solar energy,,2012,104312.84
+Solar energy,,2013,141169.89
+Solar energy,,2014,180216.11
+Solar energy,,2015,228053.67
+Solar energy,,2016,300199
+Solar energy,,2017,395272.72
+Solar energy,,2018,488801.25
+Solar energy,,2019,591000.06
+Solar energy,,2020,717210.94
+Solar energy,,2021,854795.1
+Solar photovoltaic,,2000,808.669
+Solar photovoltaic,,2001,1092.986
+Solar photovoltaic,,2002,1437.059
+Solar photovoltaic,,2003,1965.03
+Solar photovoltaic,,2004,3051.979
+Solar photovoltaic,,2005,4548.119
+Solar photovoltaic,,2006,6093.193
+Solar photovoltaic,,2007,8506.466
+Solar photovoltaic,,2008,14729.541
+Solar photovoltaic,,2009,22844.467
+Solar photovoltaic,,2010,40337.81
+Solar photovoltaic,,2011,72215.98
+Solar photovoltaic,,2012,101746.33
+Solar photovoltaic,,2013,137227.97
+Solar photovoltaic,,2014,175617.17
+Solar photovoltaic,,2015,223203.62
+Solar photovoltaic,,2016,295228.97
+Solar photovoltaic,,2017,390203.62
+Solar photovoltaic,,2018,482990.3
+Solar photovoltaic,,2019,584623.2
+Solar photovoltaic,,2020,710700.25
+Solar photovoltaic,,2021,848404.56
+Solid biofuels and renewable waste,,2000,26723.271
+Solid biofuels and renewable waste,,2001,28286.094
+Solid biofuels and renewable waste,,2002,29566.096
+Solid biofuels and renewable waste,,2003,31430.705
+Solid biofuels and renewable waste,,2004,33565.94
+Solid biofuels and renewable waste,,2005,37542.76
+Solid biofuels and renewable waste,,2006,40863.098
+Solid biofuels and renewable waste,,2007,43015.855
+Solid biofuels and renewable waste,,2008,46226.027
+Solid biofuels and renewable waste,,2009,50953.27
+Solid biofuels and renewable waste,,2010,54194.04
+Solid biofuels and renewable waste,,2011,58462.176
+Solid biofuels and renewable waste,,2012,61722.5
+Solid biofuels and renewable waste,,2013,68388.59
+Solid biofuels and renewable waste,,2014,73129.31
+Solid biofuels and renewable waste,,2015,78155.35
+Solid biofuels and renewable waste,,2016,86216.65
+Solid biofuels and renewable waste,,2017,91174.734
+Solid biofuels and renewable waste,,2018,97258.8
+Solid biofuels and renewable waste,,2019,102058.81
+Solid biofuels and renewable waste,,2020,109871.16
+Solid biofuels and renewable waste,,2021,119213.82
+Total renewable energy,,2000,752962.56
+Total renewable energy,,2001,773578.56
+Total renewable energy,,2002,793489.25
+Total renewable energy,,2003,824760.44
+Total renewable energy,,2004,858787.2
+Total renewable energy,,2005,899400.25
+Total renewable energy,,2006,941375.4
+Total renewable energy,,2007,992531.25
+Total renewable energy,,2008,1056437.8
+Total renewable energy,,2009,1136441.5
+Total renewable energy,,2010,1224222.9
+Total renewable energy,,2011,1330678.4
+Total renewable energy,,2012,1443956.8
+Total renewable energy,,2013,1566304.2
+Total renewable energy,,2014,1698022.9
+Total renewable energy,,2015,1851380.9
+Total renewable energy,,2016,2013732.5
+Total renewable energy,,2017,2184464.2
+Total renewable energy,,2018,2357959
+Total renewable energy,,2019,2541478.2
+Total renewable energy,,2020,2808273.5
+Total renewable energy,,2021,3068297.2
+Wind energy,,2000,16932.482
+Wind energy,,2001,23968.965
+Wind energy,,2002,30733.412
+Wind energy,,2003,38669.547
+Wind energy,,2004,47684.39
+Wind energy,,2005,58407.125
+Wind energy,,2006,73160.67
+Wind energy,,2007,91552.06
+Wind energy,,2008,115564.29
+Wind energy,,2009,150136.58
+Wind energy,,2010,180866.3
+Wind energy,,2011,220120.62
+Wind energy,,2012,266916.8
+Wind energy,,2013,299838.34
+Wind energy,,2014,349305.8
+Wind energy,,2015,416169.16
+Wind energy,,2016,466866.03
+Wind energy,,2017,514196.25
+Wind energy,,2018,564315.94
+Wind energy,,2019,621083.2
+Wind energy,,2020,731623.1
+Wind energy,,2021,823484.4
